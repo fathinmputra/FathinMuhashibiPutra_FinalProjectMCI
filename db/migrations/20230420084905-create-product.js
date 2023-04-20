@@ -17,6 +17,10 @@ module.exports = {
         allowNull: false,
         type: Sequelize.STRING(256)
       },
+      price: {
+        allowNull: false,
+        type: Sequelize.DECIMAL(10,2)
+      },
       discount_id: {
         allowNull: false,
         type: Sequelize.INTEGER,
@@ -62,6 +66,10 @@ module.exports = {
         type: Sequelize.DATE
       },
       updatedAt: {
+        allowNull: false,
+        type: Sequelize.DATE
+      },
+      deletedAt: {
         allowNull: false,
         type: Sequelize.DATE
       }
