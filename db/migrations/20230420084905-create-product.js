@@ -21,6 +21,10 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DECIMAL(10,2)
       },
+      image: {
+        allowNull: false,
+        type: Sequelize.STRING(512)
+      },
       discount_id: {
         allowNull: false,
         type: Sequelize.INTEGER,
