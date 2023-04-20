@@ -2,8 +2,8 @@ const product_categoryRepository = require ('../repositories/product_categoryRep
 
 const getAllproduct_category = async () => {
     try{
-        const product_categorys = await product_categoryRepository.getAllproduct_category();
-        return product_categorys;  
+        const product_categories = await product_categoryRepository.getAllproduct_category();
+        return product_categories;  
     }
     catch(err){
         return err;

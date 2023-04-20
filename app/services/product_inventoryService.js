@@ -2,8 +2,8 @@ const product_inventoryRepository = require ('../repositories/product_inventoryR
 
 const getAllproduct_inventory = async () => {
     try{
-        const product_inventorys = await product_inventoryRepository.getAllproduct_inventory();
-        return product_inventorys;  
+        const product_inventories = await product_inventoryRepository.getAllproduct_inventory();
+        return product_inventories;  
     }
     catch(err){
         return err;
