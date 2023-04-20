@@ -15,6 +15,9 @@ module.exports = {
       desc: {
         type: Sequelize.STRING(256)
       },
+      active: {
+        type: Sequelize.BOOLEAN
+      },
       discount_percent: {
         type: Sequelize.DECIMAL(3,2)
       },

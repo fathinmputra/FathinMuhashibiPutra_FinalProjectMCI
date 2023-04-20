@@ -16,7 +16,8 @@ module.exports = (sequelize, DataTypes) => {
   discount.init({
     name: DataTypes.STRING,
     desc: DataTypes.STRING,
-    discount_percent: DataTypes.DECIMAL
+    discount_percent: DataTypes.DECIMAL,
+    active: DataTypes.BOOLEAN
   }, {
     sequelize,
     modelName: 'discount',
