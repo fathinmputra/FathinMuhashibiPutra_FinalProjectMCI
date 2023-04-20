@@ -7,13 +7,8 @@
 
 
 ## CDM
-![nusantara_store-2023-04-21_00-25](https://user-images.githubusercontent.com/103252800/233463257-2546ecf5-39ca-4920-8e12-9f4b9d269c5e.png)
+![nusantara_store-2023-04-21_02-05](https://user-images.githubusercontent.com/103252800/233463589-31ceb1de-e903-4438-ab65-93f0722ecc0c.png)
 
 
 ## PDM
-![nusantara_store_Physical_Export-2023-04-21_00-26](https://user-images.githubusercontent.com/103252800/233463272-57572577-72e9-4dcb-8aef-65b4b07affde.png)
-
-
-
-
-
+![nusantara_store_Physical_Export-2023-04-21_02-06](https://user-images.githubusercontent.com/103252800/233463604-1ba38b8a-69a8-4ff7-aafd-3e78f47689d9.png)
