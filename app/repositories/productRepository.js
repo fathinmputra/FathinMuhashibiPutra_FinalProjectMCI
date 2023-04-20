@@ -13,7 +13,7 @@ const createproduct = (name, desc, price, image, discount_id, product_inventory_
         discount_id, 
         product_inventory_id, 
         product_category_id, 
-        ser_penjual_id
+        user_penjual_id
     })
 }
 
@@ -35,7 +35,7 @@ const updateproduct = (id, name, desc, price, image, discount_id, product_invent
         discount_id, 
         product_inventory_id, 
         product_category_id, 
-        ser_penjual_id
+        user_penjual_id
     }, {
         where: {
             id
