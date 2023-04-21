@@ -54,6 +54,8 @@ const deletepayment_detail = async (req, res) => {
         await payment_detailService.deletepayment_detail(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data payment_detail berhasil dihapus',
+            data : payment_details    
         });
     }
     catch(err) {

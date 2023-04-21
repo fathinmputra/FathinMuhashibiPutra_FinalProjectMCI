@@ -54,6 +54,8 @@ const deleteproduct_inventory = async (req, res) => {
         await product_inventoryService.deleteproduct_inventory(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data product_inventory berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

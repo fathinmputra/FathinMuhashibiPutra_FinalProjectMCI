@@ -54,6 +54,8 @@ const deletecart_item = async (req, res) => {
         await cart_itemService.deletecart_item(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data cart_item berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

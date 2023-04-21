@@ -54,6 +54,8 @@ const deleteshopping_session = async (req, res) => {
         await shopping_sessionService.deleteshopping_session(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data shopping_session berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

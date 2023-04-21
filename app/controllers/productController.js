@@ -54,6 +54,8 @@ const deleteproduct = async (req, res) => {
         await productService.deleteproduct(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data product berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

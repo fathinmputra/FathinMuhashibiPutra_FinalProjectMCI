@@ -54,6 +54,8 @@ const deletediscount = async (req, res) => {
         await discountService.deletediscount(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data discount berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

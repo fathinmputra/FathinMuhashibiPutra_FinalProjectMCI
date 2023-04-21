@@ -54,6 +54,8 @@ const deleteuser_penjual = async (req, res) => {
         await user_penjualService.deleteuser_penjual(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data user_penjual berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

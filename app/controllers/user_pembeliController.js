@@ -54,6 +54,8 @@ const deleteuser_pembeli = async (req, res) => {
         await user_pembeliService.deleteuser_pembeli(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data user_pembeli berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

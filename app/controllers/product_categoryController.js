@@ -54,6 +54,8 @@ const deleteproduct_category = async (req, res) => {
         await product_categoryService.deleteproduct_category(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data product_category berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

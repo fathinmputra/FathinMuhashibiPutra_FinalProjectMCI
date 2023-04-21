@@ -54,6 +54,8 @@ const deleteaddress = async (req, res) => {
         await addressService.deleteaddress(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data address berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {

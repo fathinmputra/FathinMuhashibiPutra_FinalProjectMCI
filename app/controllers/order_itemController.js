@@ -54,6 +54,8 @@ const deleteorder_item = async (req, res) => {
         await order_itemService.deleteorder_item(id);
         res.status(200).send({
             status : 'success',
+            message : 'Data order_item berhasil dihapus',
+            data : ''
         });
     }
     catch(err) {
