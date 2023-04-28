@@ -1,23 +1,26 @@
 module.exports = {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "db_nusantarastore",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "doadmin",
+    "password": "AVNS_4GD1pQ8pd9LNKzf2SOD",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-00177-do-user-14018809-0.b.db.ondigitalocean.com",
+    "dialect": "mysql",
+    "port": 25060
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "doadmin",
+    "password": "AVNS_4GD1pQ8pd9LNKzf2SOD",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-00177-do-user-14018809-0.b.db.ondigitalocean.com",
+    "dialect": "mysql",
+    "port": 25060
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "doadmin",
+    "password": "AVNS_4GD1pQ8pd9LNKzf2SOD",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-00177-do-user-14018809-0.b.db.ondigitalocean.com",
+    "dialect": "mysql",
+    "port": 25060
   }
 }
