@@ -1,6 +1,10 @@
 const express = require("express")
 const bodyPArser = require("body-parser");
+const dotenv = require('dotenv');
 const app = express();
+
+dotenv.config();
+
 app.use(bodyPArser.json());
 app.use(bodyPArser.urlencoded({ extended: true }));
 const port = process.env.PORT || 3000;
@@ -17,6 +21,10 @@ const discountRoute = require('../app/routes/discountRoute');
 const order_itemRoute = require('../app/routes/order_itemRoute');
 const order_detailRoute = require('../app/routes/order_detailRoute');
 const payment_detailRoute = require('../app/routes/payment_detailRoute');
+const loginRoute = require('../app/routes/loginRoute');
+
+
+app.use('/login', loginRoute);
 
 app.use('/user_pembeli', user_pembeliRoute);
 app.use('/address', addressRoute);
