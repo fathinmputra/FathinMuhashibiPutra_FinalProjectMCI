@@ -49,6 +49,7 @@ const loginPenjual = async (req, res) => {
         const {email, password} = req.body;
         if (!email || !password) throw new Error('Email dan password harus diisi' );
         const user = await userService.loginPenjual(email, password);
+        if (!user) throw new Error('Email atau password salah');
         const token = jwt.generateAccessToken(user, 'penjual');
         console.log(token);
         res.status(200).send({

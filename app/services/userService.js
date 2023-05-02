@@ -6,7 +6,7 @@ const loginPembeli = async (email, password) => {
         return user;
     }
     catch(err) {
-        return err;
+        return 'Email atau password salah';
     }
 }
 
@@ -16,7 +16,7 @@ const loginPenjual = async (email, password) => {
         return user;
     }
     catch(err) {
-        return err;
+        return 'Email atau password salah'
     }
 }
 
