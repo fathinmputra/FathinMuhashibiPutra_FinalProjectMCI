@@ -4,8 +4,8 @@
 **<br>NRP : 5025211229**
 
 **<br>Link github Back End         : https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI.git**
-**<br>Dokumentasi Postman          : https://documenter.getpostman.com/view/27367251/2s93ebTWQU**
 **<br>Link github Front End        : https://github.com/fathinmputra/nusantarastore_frontend.git**
+**<br>Dokumentasi Postman          : https://documenter.getpostman.com/view/27367251/2s93ebTWQU**
 **<br>Link Website                 : https://nusantarastore-fe.vercel.app/**
 
 # SISTEM WEBSITE NUSANTARA STORE
