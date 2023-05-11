@@ -29,7 +29,7 @@ A. LANDING PAGE :
   2. Sign Up
    - Halaman Sign Up Pembeli
    - Halaman Sign Up Penjual
-  4. Log In
+  3. Log In
    - Halaman Log In Pembeli (Autentikasi email pengguna)
    - Halaman Log In Penjual (Autentikasi email pengguna)
 
