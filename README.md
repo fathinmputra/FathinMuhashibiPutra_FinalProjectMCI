@@ -47,50 +47,50 @@ C. DASHBOARD AKUN PEMBELI
 Penjelasan lebih lanjutnya adalah sebagai berikut :
 
 ### A. LANDING PAGE
-<img width="951" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/b8f6512b-faee-49f7-9f27-1bdd5f1bd4ae">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/94bfc133-f234-4940-ba8d-d83cb96e5e2f">
 
 Halaman ini merupakan halaman utama ketika mengakses website Nusantara Store. Pada halaman ini ditampilkan kata-kata "Selamat Datang di Nusantara Store" dan Navigation Bar yang berisi tombol pilihan About, Sign Up, dan Log In :
 
 #### 1. **About**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/8f237700-7458-4851-91d1-a2ba89ffeffc"> 
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/32328537-f0cb-480c-86cb-15612c4dd10c">
 
 Keterangan : Pilihan About digunakan untuk melihat deskripsi tentang website Nusantara Store.
 
 #### 2. Sign Up
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/78321616-ecbb-4805-9f48-7057f514e7f7">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/3f0ba7cc-392e-4956-b789-53293b0653e1">
 
 Keterangan : Pilihan Sign Up digunakan untuk mendaftar akun pengguna.
 
 #### - Halaman Sign Up Penjual <br>
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/2bc51178-3d13-44aa-92f0-8c3914b40d94">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/f70093f6-369a-4196-9526-716281700062">
 
 #### - Halaman Sign Up Pembeli 
-<img width="959" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/75725a19-df4e-441d-9255-9020ffb7edd2">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/5bcfecdc-c186-42da-8d2a-4934adf5f02c">
 
 #### 3. **Log In**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/38d549b8-6fc4-4ecf-ac34-d91041096665">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/c5daba8c-c5d5-4d8f-9bcb-2b6d1361d687">
 
 Keterangan : Pilihan Log In digunakan untuk masuk ke akun pengguna.
 
 #### - Halaman Log In Penjual 
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/d24c196a-4af7-4ddf-9755-f23519a01a92">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/a401461a-f9f9-41de-8094-f88c443455fd">
 
 #### - Halaman Log In Pembeli 
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/29abaa5d-e3b2-464b-a4e4-915893c04046">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/4aafeedb-8fbb-4417-a114-13526e0b9bd7">
 
 
 ### B. DASHBOARD AKUN PENJUAL
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/3b38338d-d952-453a-aa68-f8f76a929717">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/82d6477e-0bf9-4807-9d69-ea5101c09681">
 
 Dashboard Akun Pejual menampilkan barang-barang yang dijual oleh penjual dan Navigation Bar yang berisi tombol pilihan Tambah Produk, Profil Pengguna, dan Logout:
 
 #### 1. **Tambah Produk**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/a1d41918-c05c-4514-8923-a4a6d98f379c">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/ef3d85eb-cc69-4743-89ce-f3e8e4f44fd8">
 
 Keterangan : Pilihan Tambah Produk digunakan untuk menambahkan produk yang mau dijual oleh penjual dan menampilkannya di dashboard (penjual dan pembeli)
 
 #### 2. **Profil Pengguna**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/e2f8fd46-dfaf-432f-88eb-ef79221b3922">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/f14f0863-1d95-4163-8fa2-89af4d90e2b8">
 
 Keterangan : Pilihan Profil Pengguna digunakan untuk menampilkan profil dari pengguna akun penjual.
 
@@ -100,17 +100,17 @@ Keterangan : Pilihan Logout digunakan untuk keluar akun pengguna.
 
 
 ### C. DASHBOARD AKUN PEMBELI
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/0f84331a-6357-48fc-a752-879bd3cb0199">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/f2b53df3-6962-4641-b7f6-bc8eb0f99340">
 
 Dashboard Akun Pembeli menampilkan barang-barang yang dapat dibeli dan Navigation Bar yang berisi tombol pilihan Belanja, Profil Pengguna, dan Logout:
 
 #### 1. **Belanja**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/0b489314-4804-4036-90a5-7a1be96cdcdc">
+<img width="960" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/7ee52aef-40ce-4b17-82c4-fc18ba7a9aa2">
 
 Keterangan : Pilihan Tambah Produk digunakan untuk melakukan belanja (Tambahkan Ke Keranjang, Check Out, Pembayaran).
 
 #### 2. **Profil Pengguna**
-<img width="960" alt="image" src="https://github.com/fathinmputra/nusantarastore_frontend/assets/103252800/f332c9a2-7e28-4dad-bf01-55bd78752a68">
+<img width="958" alt="image" src="https://github.com/fathinmputra/FathinMuhashibiPutra_FinalProjectMCI/assets/103252800/d46bc006-207c-4534-96cb-bcc178a485b3">
 
 Keterangan : Pilihan Profil Pengguna digunakan untuk menampilkan profil dari pengguna akun pembeli.
 
